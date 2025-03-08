@@ -1,8 +1,8 @@
-# Memorizer Privacy Policy
+# Cross Reference Mapper Privacy Policy
 
 ## Data Storage
 
-All data used by the SDG Apps Memorizer mobile application (hereafter “App”) is used strictly for the operation of the App; for example, text data used by the App, or a log of recently selected text passages for user convenience.  Data is stored entirely on the mobile device (hereafter “Device”) running the App.  The App will use a local database (hereafter “DB”) located on the Device to store and retrieve any data used by the App on the Device.  In some cases, the App will communicate with another App using a shared DB, only on the same Device.
+All data used by the SDG Apps Cross Reference Mapper mobile application (hereafter “App”) is used strictly for the operation of the App; for example, text data used by the App, or a log of recently selected text passages for user convenience.  Data is stored entirely on the mobile device (hereafter “Device”) running the App.  The App will use a local database (hereafter “DB”) located on the Device to store and retrieve any data used by the App on the Device.  In some cases, the App will communicate with another App using a shared DB, only on the same Device.
 
 ## Data Collection/Sharing
 
